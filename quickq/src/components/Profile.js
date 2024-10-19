@@ -19,7 +19,7 @@ const Profile = () => {
           </View>
       </View>
       
-      <Text style={styles.text}>Profile Screen</Text>
+      <Text style={styles.text}>Profile Screen - Hello!</Text>
     </View>
   );
 };
